@@ -1,0 +1,9 @@
+package servent.message;
+
+public enum MessageType {
+	POISON,
+	LAMPORT_REQUEST, LAMPORT_RELEASE, LAMPORT_REPLY,
+	PING, PONG, IS_ALIVE, CONFIRM, DENY,
+
+	ASK_FILE, RETURN_FILE
+}

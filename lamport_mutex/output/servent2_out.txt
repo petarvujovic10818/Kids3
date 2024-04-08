@@ -1,0 +1,12 @@
+19:25:49 - Starting servent [2|localhost|1700]
+19:25:49 - Pausing for 20000 ms
+19:25:50 - Got message [0|1|0|LAMPORT_REQUEST|2]
+19:25:50 - Sending message [2|0|2|LAMPORT_REPLY|0]
+19:25:51 - Got message [1|2|1|LAMPORT_REQUEST|2]
+19:25:51 - Sending message [2|1|2|LAMPORT_REPLY|1]
+19:25:54 - Got message [0|6|5|LAMPORT_RELEASE|2]
+19:25:57 - Got message [0|10|5|LAMPORT_REQUEST|2]
+19:25:57 - Sending message [2|2|6|LAMPORT_REPLY|0]
+19:25:59 - Got message [1|7|5|LAMPORT_RELEASE|2]
+19:26:01 - Got message [0|14|7|LAMPORT_RELEASE|2]
+19:26:09 - Stopping...
